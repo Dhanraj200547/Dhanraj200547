@@ -1,5 +1,6 @@
 #  About Me:
-I'm currently working on Large Language Models.<br>I'm currently learning new technologies for the implementation of LLMs, including advanced prompt engineering, specific LLM frameworks <br>like LangChain/LlamaIndex, model quantization, distributed training.<br> I'm open to collaboration on interesting LLM projects, new opportunities in AI/ML, mentorship, discussions on cutting-edge research<br>
+A Final Year - Malla Reddy Engineering College Student - Specializing in CSE-AIML.
+<br>I'm currently learning new technologies for the implementation of LLMs, including advanced prompt engineering, specific LLM frameworks <br>like LangChain/LlamaIndex, model quantization, distributed training.<br> I'm open to collaboration on interesting LLM projects, new opportunities in AI/ML, mentorship, discussions on cutting-edge research<br>
 
 
 ##  Socials:

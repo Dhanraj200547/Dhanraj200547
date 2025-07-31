@@ -13,10 +13,10 @@ A Final Year - Malla Reddy Engineering College Student - Specializing in CSE-AIM
 ![](https://nirzak-streak-stats.vercel.app/?user=Dhanraj200547&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanraj200547&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=Dhanraj200547&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Leetcode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/user4050Wh?theme=dark&font=baloo&ext=heatmap)
 
 # Featured Projects
 Here are a few projects I'm proud of:
